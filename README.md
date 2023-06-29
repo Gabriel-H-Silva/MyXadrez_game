@@ -1,2 +1,3 @@
-# MyXadrez_game
-Meu jogo de Xadrez 
+# Meu Projeto do Xadrez
+
+  Meu Jogo de Xadrez simples
