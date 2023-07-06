@@ -6,6 +6,7 @@ namespace Xadrez
 {
     class Program
     {
+        // incompleto
         public static void Main(string[] args)
         {
             try
